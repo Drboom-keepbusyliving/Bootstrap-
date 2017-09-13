@@ -1,2 +1,2 @@
-# Bootstrap-
 运用bootstrap做的一个新闻站前端页面，并进行了响应式布局。
+参照表严肃的教学视频独立完成，收获了bootstrap的基本使用方法，认识到bootstrap框架并不完美，如顶端的导航栏不可以通过设置position：absolute来实现。以后会继续体会并争取学会自己修改框架。
